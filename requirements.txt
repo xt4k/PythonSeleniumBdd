@@ -1,0 +1,6 @@
+Flask
+waitress
+behave
+beautifulsoup4
+selenium
+allure-behave
