@@ -19,6 +19,7 @@ selenium
 allure-behave
 ![image](https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525)
 
+![image](https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1)
 
 
 
@@ -37,7 +38,7 @@ allure-behave
 ## Technology stack
 | Python | Flask | Waitress | unittest | Behave | Beautifulsoup4 | Selenium | Allure | 
 |:-----:|:-----:|:-----:|:----:|:------:|:------:|:-------:|:-----------:|
-|<img src=https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5 width="60" height="60">|<img src=https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5 width="60" height="60">|<img src=https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5 width="60" height="60">|<img src=https://github.com/user-attachments/assets/6f3633b3-33e2-4df7-bb80-408700c14ff3 width="60" height="60"> |<img src=https://github.com/user-attachments/assets/7257d7dc-f781-4e1f-ae87-43473cf81c53 width="60" height="60"> |<img src=https://github.com/user-attachments/assets/bc6451b4-46d6-4fa5-bcea-9abaab276e10 width="60" height="60"> |<img src=https://github.com/user-attachments/assets/59998826-e8d4-435e-979d-3a6324f14ce6 width="60" height="60">|<img src=https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525 width="60" height="60">|
+|<img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="60" height="60">|<img src=https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5 width="60" height="60">|<img src=https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5 width="60" height="60">|<img src=https://github.com/user-attachments/assets/6f3633b3-33e2-4df7-bb80-408700c14ff3 width="60" height="60"> |<img src=https://github.com/user-attachments/assets/7257d7dc-f781-4e1f-ae87-43473cf81c53 width="60" height="60"> |<img src=https://github.com/user-attachments/assets/bc6451b4-46d6-4fa5-bcea-9abaab276e10 width="60" height="60"> |<img src=https://github.com/user-attachments/assets/59998826-e8d4-435e-979d-3a6324f14ce6 width="60" height="60">|<img src=https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525 width="60" height="60">|
 
 ## Allure report
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/8d334665-af01-42b9-be82-437a4c1d438d)
