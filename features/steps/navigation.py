@@ -10,6 +10,7 @@ from tests.page_model.new_post_page import NewPostPage
 
 use_step_matcher("re")
 
+
 # -*- coding: utf-8 -*-
 
 @given('User on the home page')
@@ -62,4 +63,5 @@ def step_impl(context):
 @allure.step("User navigated to the home page")
 def step_impl(context):
     expected_url = HomePage(context.driver).url
-    assert context.driver.current_url == expected_url
+    actual_url = context.driver.current_url
+    assert actual_url == expected_url, f"Expected URL to be '{expected_url}', but got '{actual_url}' instead."
