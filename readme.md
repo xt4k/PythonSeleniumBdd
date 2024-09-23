@@ -22,4 +22,4 @@
 ![image](https://github.com/user-attachments/assets/81add1d2-23d2-4ce2-8582-892fa14d8da7)
 
 ## Test run in IDE
-![image](https://github.com/user-attachments/assets/e02da632-fe0b-4128-a92f-efdc543dc567)
+![image](https://github.com/user-attachments/assets/772646ca-c273-435b-9c39-8a7f375b1ac1)
