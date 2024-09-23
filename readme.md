@@ -7,7 +7,7 @@
 * [Technology stack](#technology-stack)
 * [Allure report](#allure-report)
 * [Report pages](#report-pages)
-* [Test run in IDEA](#test-run-in-idea)
+* [Test run in IDE](#test-run-in-ide)
 
 ## Technology stack
 | Python | Flask | unittest | Waitress | Behave | Beautifulsoup4 | Selenium | allure-behave |  Pycharm | 
@@ -22,5 +22,5 @@
 ![image](https://github.com/user-attachments/assets/3f5d0db3-6d63-412a-b6bd-a0cb2c8d60e8)
 ![image](https://github.com/user-attachments/assets/81add1d2-23d2-4ce2-8582-892fa14d8da7)
 
-## Test run in IDEA
+## Test run in IDE
 ![image](https://github.com/user-attachments/assets/e02da632-fe0b-4128-a92f-efdc543dc567)
