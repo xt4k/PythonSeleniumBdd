@@ -1,9 +1,22 @@
 Flask
+![image](https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5)
+
+
 waitress
+![image](https://github.com/user-attachments/assets/6f3633b3-33e2-4df7-bb80-408700c14ff3)
+
 behave
+![image](https://github.com/user-attachments/assets/7257d7dc-f781-4e1f-ae87-43473cf81c53)
+
 beautifulsoup4
+<img width="254" alt="image" src="https://github.com/user-attachments/assets/bc6451b4-46d6-4fa5-bcea-9abaab276e10">
+
+
 selenium
+
 allure-behave
+![image](https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525)
+
 
 
 
