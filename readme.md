@@ -1,6 +1,6 @@
 
 # Python test automation framework (as completion task for training https://www.udemy.com/course/automated-software-testing-with-python/)
-<img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="120" height="120"> <img src=src=https://github.com/user-attachments/assets/6f3633b3-33e2-4df7-bb80-408700c14ff3 width="120" height="120"> 
+<img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="120" height="120"> <img src=https://github.com/user-attachments/assets/6f3633b3-33e2-4df7-bb80-408700c14ff3 width="120" height="120"> 
 <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/ffac15e8-7d56-4a8c-92c6-05d0f853d9c5" width="80" height="100">
  
 ##### Done in frame of self-education after Playwright training graduating
