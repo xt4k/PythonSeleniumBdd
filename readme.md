@@ -22,7 +22,7 @@ allure-behave
 
 
 
-# Playwright demo TAF project (test automation framework)
+# Python test automation framework (as completion task for training https://www.udemy.com/course/automated-software-testing-with-python/)
 <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/52b31b88-8996-47eb-a8ef-551fae1d70e6" width="100" height="100"> <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/0143778f-137a-4311-8d9c-65786b030507" width="60" height="80"> 
 <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/ffac15e8-7d56-4a8c-92c6-05d0f853d9c5" width="80" height="100">
  
@@ -35,9 +35,9 @@ allure-behave
 * [Test run in IDEA](#test-run-in-idea)
 
 ## Technology stack
-| GitHub | IDEA | Java | Junit5 | Gradle |        Playwright      |    Allure   | 
+| Python | Flask | Waitress | unittest | Behave | Beautifulsoup4      | Selenium | Allure | 
 |:-----:|:-----:|:----:|:------:|:------:|:----------------------:|:-----------:|
-|<img src="https://user-images.githubusercontent.com/38681283/120561870-048f0480-c40e-11eb-9ff8-c155f9d617c4.png" width="40" height="40">|<img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="40" height="40">|<img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="40" height="40"> |<img src="https://user-images.githubusercontent.com/38681283/120562013-43bd5580-c40e-11eb-926f-1b8d3dc9e965.png" width="40" height="40"> |<img src="https://user-images.githubusercontent.com/38681283/120562398-fbeafe00-c40e-11eb-9fe7-3a641bf7115c.png" width="40" height="40"> |<img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/52b31b88-8996-47eb-a8ef-551fae1d70e6" width="40" height="40">|<img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="40" height="40">|
+|<img src=https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5 width="60" height="60">|<img src=https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5 width="60" height="60">|<img src=https://github.com/user-attachments/assets/5ab7a048-2bb3-4407-a4b7-6282f3f46ee5 width="60" height="60">|<img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="40" height="40"> |<img src="https://user-images.githubusercontent.com/38681283/120562013-43bd5580-c40e-11eb-926f-1b8d3dc9e965.png" width="40" height="40"> |<img src="https://user-images.githubusercontent.com/38681283/120562398-fbeafe00-c40e-11eb-9fe7-3a641bf7115c.png" width="40" height="40"> |<img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/52b31b88-8996-47eb-a8ef-551fae1d70e6" width="40" height="40">|<img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="40" height="40">|
 
 ## Allure report
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/8d334665-af01-42b9-be82-437a4c1d438d)
