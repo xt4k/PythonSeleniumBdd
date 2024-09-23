@@ -8,7 +8,6 @@
 * [Allure report](#allure-report)
 * [Report pages](#report-pages)
 * [Test run in IDE](#test-run-in-ide)
-
 ## Technology stack
 | Python | Flask | unittest | Waitress | Behave | Beautifulsoup4 | Selenium | allure-behave |  Pycharm | 
 |:------:|:-----:|:--------:|:--------:|:------:|:--------------:|:--------:|:-------------:|---------:|
