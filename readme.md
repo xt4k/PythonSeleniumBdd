@@ -13,6 +13,8 @@ beautifulsoup4
 
 
 selenium
+![image](https://github.com/user-attachments/assets/59998826-e8d4-435e-979d-3a6324f14ce6)
+
 
 allure-behave
 ![image](https://github.com/user-attachments/assets/a628cb54-3bbb-433f-b5ac-f2e3426f2525)
