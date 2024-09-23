@@ -24,12 +24,14 @@
 
 
 ## Report pages
-![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/9655631d-93ca-40a0-bd98-fe2d42c1f3cc)
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/3b38477c-772b-4836-adc8-23db836703d6">
+![image](https://github.com/user-attachments/assets/3b38477c-772b-4836-adc8-23db836703d6)
 
 
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/0fe55c65-2db7-4119-9828-9928a2684b29)
-![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/85c84531-6555-4a5a-9d3f-36c7f9238cbc)
+![image](https://github.com/user-attachments/assets/81add1d2-23d2-4ce2-8582-892fa14d8da7)
+
+
+
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/b66fb1e7-2ddb-4c2a-8863-01fc3f32e846)
 
 ## Test run in IDEA
