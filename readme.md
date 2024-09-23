@@ -1,6 +1,3 @@
-
-
-
 # Python test automation framework demo-project (as completion task for training https://www.udemy.com/course/automated-software-testing-with-python/)
 <img src=https://github.com/user-attachments/assets/56218a6e-8689-49ab-84f3-5ce368fe03d1 width="120" height="120"> 
  <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/0143778f-137a-4311-8d9c-65786b030507" width="60" height="80">
@@ -20,24 +17,10 @@
 ## Allure report
 ![image](https://github.com/user-attachments/assets/4c3125cf-319e-4b3a-b574-258a15b9a9ef)
 
-
-
-
 ## Report pages
 ![image](https://github.com/user-attachments/assets/3b38477c-772b-4836-adc8-23db836703d6)
-
-
-![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/0fe55c65-2db7-4119-9828-9928a2684b29)
+![image](https://github.com/user-attachments/assets/3f5d0db3-6d63-412a-b6bd-a0cb2c8d60e8)
 ![image](https://github.com/user-attachments/assets/81add1d2-23d2-4ce2-8582-892fa14d8da7)
-
-
-
-![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/b66fb1e7-2ddb-4c2a-8863-01fc3f32e846)
 
 ## Test run in IDEA
 ![image](https://github.com/user-attachments/assets/e02da632-fe0b-4128-a92f-efdc543dc567)
-
-
-
-
-
