@@ -1,4 +1,4 @@
-<!--img width="1554" alt="image" src="https://github.com/user-attachments/assets/62e9d83a-ca73-405d-8f47-27dcb2d8bdf3"-->
+
 
 
 # Python test automation framework demo-project (as completion task for training https://www.udemy.com/course/automated-software-testing-with-python/)
@@ -21,7 +21,6 @@
 ![image](https://github.com/user-attachments/assets/c08ee9d0-2254-4e24-8582-6b8b35c80a48)
 
 
-<img width="1554" alt="image" src="https://github.com/user-attachments/assets/c08ee9d0-2254-4e24-8582-6b8b35c80a48">
 
 
 ## Report pages
@@ -31,6 +30,11 @@
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/b66fb1e7-2ddb-4c2a-8863-01fc3f32e846)
 
 ## Test run in IDEA
-![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/5be72d50-42f5-4478-95f2-9f0aa0365afa)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
+
+![image](https://github.com/user-attachments/assets/e02da632-fe0b-4128-a92f-efdc543dc567)
+
+
+
+
+
